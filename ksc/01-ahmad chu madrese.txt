@@ -1,0 +1,3 @@
+[ahmad chu madrese]
+[Ahmad(Proper Noun) Go(Verb, Past) School(Noun)]
+[Ahmad Went to school]
